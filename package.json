@@ -1,0 +1,12 @@
+{
+  "name": "ds",
+  "version": "1.0.0",
+  "description": "DS backend",
+  "license": "ISC",
+  "author": "Wael Ghouma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
